@@ -242,10 +242,15 @@ gulp.task('templates', function () {
 })
 
 
+//gulp.task('default', [
+//  // build
+//  'uglifyjs', 'minifycss', 'lesscss', 'sasscss', 'image', 'copy', 'templates',
+//  // watch
+//  'watchjs', 'watchcss', 'watchless', 'watchsass', 'watchimage', 'watchcopy', 'watchtemplates'
+//  ]
+//)
 gulp.task('default', [
     // build
     'uglifyjs', 'minifycss', 'lesscss', 'sasscss', 'image', 'copy', 'templates',
-    // watch
-    'watchjs', 'watchcss', 'watchless', 'watchsass', 'watchimage', 'watchcopy', 'watchtemplates'
     ]
 )
