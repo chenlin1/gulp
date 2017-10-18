@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"iBACA,KACC,WAAA","file":"style.css","sourcesContent":["@charset \"utf-8\";\r\nbody{\r\n\tbackground: yellow;\r\n}\r\n"]}
